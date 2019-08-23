@@ -1,0 +1,27 @@
+{
+  "name": "hakhagmon/adozer",
+  "description": "Helper",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "hakhagmon",
+      "email": "h@phcm.ru",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/hakhagmon/adozer"
+  },
+  "require": {
+    "php": "^7.0",
+    "ext-xmlwriter": "*",
+    "ext-dom": "*",
+    "ext-tokenizer": "*"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
+
