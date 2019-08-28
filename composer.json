@@ -13,7 +13,7 @@
     "issues": "https://github.com/hakhagmon/adozer"
   },
   "require": {
-    "php": "^7.0",
+    "php": ">=5.3.0",
     "ext-xmlwriter": "*",
     "ext-dom": "*",
     "ext-tokenizer": "*"
